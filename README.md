@@ -6,19 +6,32 @@
 
 Here's a glimpse of the app's clean and intuitive user interface, designed for both light and dark modes.
 
-![Shiksha Sanchalan Signup Screen](readme_images/signup.jpg)
-![Shiksha Sanchalan Login Screen](readme_images/login.jpg)
-![Shiksha Sanchalan Admin Dashboard Screen](readme_images/admin.jpg)
-![Shiksha Sanchalan Faculty Dashboard Screen](readme_images/faculty.jpg)
-![Shiksha Sanchalan Seating Arrangement Screen](readme_images/seating.jpg)
-![Shiksha Sanchalan Seating Arrangement Pdf Page](readme_images/seatingpdf.jpg)
-![Shiksha Sanchalan Faculty Availability Screen](readme_images/availability.jpg)
-![Shiksha Sanchalan Faculty Availability Status Screen](readme_images/avail.jpg)
-![Shiksha Sanchalan Faculty Assignment Screen](readme_images/assign.jpg)
-![Shiksha Sanchalan Semesters Screen](readme_images/sem.jpg)
-![Shiksha Sanchalan Time Table Management Screen](readme_images/tt.jpg)
-![Shiksha Sanchalan Time Table Pdf Page](readme_images/ttpdf.jpg)
-![Shiksha Sanchalan Profile Screen](readme_images/profile.jpg)
+
+<img src="readme_images/signup.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/login.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/admin.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/faculty.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/seating.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/seatingpdf.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/availability.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/avail.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/assign.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/sem.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/tt.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/ttpdf.jpg" alt="Onboarding Screen" width="250"/>
+
+<img src="readme_images/profile.jpg" alt="Onboarding Screen" width="250"/>
 
 ---
 
