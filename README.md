@@ -6,33 +6,33 @@
 
 Here's a glimpse of the app's clean and intuitive user interface, designed for both light and dark modes.
 
+<p align="center">
+  <img src="readme_images/signup.jpg" alt="Signup Screen" width="250"/>
+  <img src="readme_images/login.jpg" alt="Login Screen" width="250"/>
+  <img src="readme_images/admin.jpg" alt="Admin Screen" width="250"/>
+</p>
 
-<img src="readme_images/signup.jpg" alt="Onboarding Screen" width="250"/>
+<p align="center">
+  <img src="readme_images/faculty.jpg" alt="Faculty Screen" width="250"/>
+  <img src="readme_images/seating.jpg" alt="Seating Screen" width="250"/>
+  <img src="readme_images/seatingpdf.jpg" alt="Seating PDF Screen" width="250"/>
+</p>
 
-<img src="readme_images/login.jpg" alt="Onboarding Screen" width="250"/>
+<p align="center">
+  <img src="readme_images/availability.jpg" alt="Availability Screen" width="250"/>
+  <img src="readme_images/avail.jpg" alt="Avail Screen" width="250"/>
+  <img src="readme_images/assign.jpg" alt="Assign Duty Screen" width="250"/>
+</p>
 
-<img src="readme_images/admin.jpg" alt="Onboarding Screen" width="250"/>
+<p align="center">
+  <img src="readme_images/sem.jpg" alt="Semester Screen" width="250"/>
+  <img src="readme_images/tt.jpg" alt="Timetable Screen" width="250"/>
+  <img src="readme_images/ttpdf.jpg" alt="Timetable PDF Screen" width="250"/>
+</p>
 
-<img src="readme_images/faculty.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/seating.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/seatingpdf.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/availability.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/avail.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/assign.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/sem.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/tt.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/ttpdf.jpg" alt="Onboarding Screen" width="250"/>
-
-<img src="readme_images/profile.jpg" alt="Onboarding Screen" width="250"/>
-
+<p align="center">
+  <img src="readme_images/profile.jpg" alt="Profile Screen" width="250"/>
+</p>
 ---
 
 ## ✨ Key Features
