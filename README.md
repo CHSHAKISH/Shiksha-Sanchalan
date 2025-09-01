@@ -121,3 +121,8 @@ The backend logic for notifications and secure account deletion resides in the `
 * **One-on-One Chat:** Implement a real-time chat feature between admins and faculty.
 * **Advanced Analytics:** Create a dedicated reporting section for admins to view statistics on faculty duties and room usage.
 * **Offline Support:** Integrate Firestore's offline capabilities to allow users to view essential data without an internet connection.
+
+## ⚖️ License
+**Copyright (c) 2025 CH Shakish. All Rights Reserved.**
+This project is licensed under a proprietary license. You may not use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software without explicit permission from the copyright holder.
+See the LICENSE file for more details.
