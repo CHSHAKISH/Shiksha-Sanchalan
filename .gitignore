@@ -1,0 +1,56 @@
+#Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+#IntelliJ & VS Code related
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+#Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+#Symbolication & Obfuscation related
+app..symbols
+app..map.json
+
+#Android Studio build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+#===================================================================
+#IMPORTANT: ADDITIONS FOR FIREBASE SECURITY & EFFICIENCY
+#===================================================================
+
+#Firebase - Ignore sensitive configuration files
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+
+#Firebase Functions - Ignore large dependency folder and logs
+functions/node_modules/
+functions/npm-debug.log*
+functions/yarn-debug.log*
+functions/yarn-error.log*
+functions/.firebase/
+
+#===================================================================
