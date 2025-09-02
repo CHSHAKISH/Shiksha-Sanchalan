@@ -53,4 +53,7 @@ functions/yarn-debug.log*
 functions/yarn-error.log*
 functions/.firebase/
 
+# Firebase secrets
+lib/firebase_options.dart
+
 #===================================================================
